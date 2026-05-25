@@ -6,11 +6,9 @@ Project provides coffee shop sales analysis using data transformation, SQL query
 
 ## Dashboard Preview
 
-![Dashboard Preview](Power BI report/report preview.png)
-
-![Dashboard Preview: tooltips](Power BI report/report preview_tooltip.png)
-
-![Dashboard Preview: drill-through option](Power BI report/report preview_drill.png)
+![Dashboard Preview](Power%20BI%20report/report%20preview.png)
+![Dashboard Preview: tooltips](Power%20BI%20report/report%20preview_tooltip.png)
+![Dashboard Preview: drill-through option](Power%20BI%20report/report%20preview_drill.png)
 ---
 
 ## Data source:
