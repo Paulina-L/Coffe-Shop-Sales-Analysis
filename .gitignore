@@ -1,0 +1,9 @@
+# Ignore the raw data folder and all its contents
+data/
+
+# Ignore any random excel or csv files in the project
+*.xlsx
+*.csv
+
+# Ignore temporary Power BI recovery files
+*.tmp
